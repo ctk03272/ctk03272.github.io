@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "ctk03272"
-  avatar           : "https://github.com/ctk03272/ctk03272.github.io/blob/master/assets/images/%EC%A0%84%ED%83%9C%EA%B2%BD%EB%8B%98_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9A%A9.jpg"
+  avatar           : "https://github.com/ctk03272/ctk03272.github.io/blob/master/assets/images/%EC%A0%84%ED%83%9C%EA%B2%BD%EB%8B%98_%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9A%A9.jpg?raw=true"
   bio              : "I am an amazing person."
   location         : "Seoul"
   email            : "dev.chun01@gmail.com"
