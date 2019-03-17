@@ -1,2 +1,1 @@
-# myalgo
 # athumbNail.github.io
