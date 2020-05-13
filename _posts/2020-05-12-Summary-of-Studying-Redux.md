@@ -3,7 +3,7 @@ layout:     post
 title:      Summary of Studying Redux
 date:       2020-05-12 18:00:00
 summary:    This is a summary of Studying Redux with some blog and books.
-categories: javascript
+categories: JavaScript
 ---
 
 # Redux 개념 미리 정리하기
